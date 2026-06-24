@@ -1,4 +1,9 @@
-# Hospital Management System - Advanced SQL Edition
+# Hospital Management System 
+
+## Version History
+
+v1.0 - Basic Hospital Management System
+v2.0 - Added Views, Triggers, Stored Procedures, Window Functions, Indexing, CTEs
 
 A Python and MySQL command-line project that demonstrates advanced SQL concepts using a simple hospital database. Built as a practice project to get comfortable with SQL topics that come up often in interviews, like views, stored procedures, triggers, window functions, indexing, and CTEs.
 
